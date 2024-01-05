@@ -1,0 +1,2 @@
+Developed and implemented a robust loan prediction model utilizing classification algorithms, leveraging key variables such as salary, credit score, and additional features, demonstrating proficiency in predictive modeling and data-driven decision-making for financial assessments.
+Applied effective data preprocessing techniques, including thorough cleaning, feature scaling, and handling missing values, to enhance the model's accuracy and reliability, showcasing a strong understanding of data quality management in the context of financial data for loan approval predictions.
